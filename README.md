@@ -1,6 +1,6 @@
-# Hi! Welcome to the Hackathon Repository!
+# Hi! Welcome to the GitHub Copilot Workshop Repository!
 
-This repository is a collection of resources and guides to help you get started with the hackathon. In this hackathon you can collaborate with other developers, designers, and entrepreneurs to build a project that solves a problem or creates something new.
+This repository is a collection of resources and guides to help you get started with the GitHub Copilot Workshop. In this GitHub Copilot Workshop you can collaborate with other developers, designers, and entrepreneurs to build a project that solves a problem or creates something new.
 
 # Getting started with GitHub
 
