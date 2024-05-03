@@ -30,7 +30,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 ### What is GitHub Copilot? 
 GitHub Copilot is an AI pair programmer that helps you write code faster and with less effort. It draws context from comments and code, and suggests individual lines and whole functions instantly.
 
-### Some Quick Links:
+### Some Quick Links: 
 
 1. [About GitHub Copilot](https://docs.github.com/en/copilot/about-github-copilot)
 
@@ -47,8 +47,12 @@ GitHub Copilot is an AI pair programmer that helps you write code faster and wit
 
 ### Playing with GitHub Copilot 🎮
 
-Follow the excercises in the [GitHub Copilot Playground](./GitHub%20Copilot%20Playground/) to get a feel of how GitHub Copilot works.
+You can also learn some basics of GitHub Copilot by following the [GitHub Copilot Learning Guide](./Resources/Learning%20some%20of%20GitHub%20Copilot%20features.ipynb). This guide will help you understand how GitHub Copilot works and how you can use it to write code faster. 🏎️💨
 
-You can also learn some basics of GitHub Copilot by following the [GitHub Copilot Learning Guide](./Resources/Learning%20some%20of%20GitHub%20Copilot%20features.ipynb).
+Follow the excercises in the [GitHub Copilot Playground](./GitHub%20Copilot%20Playground/) to get a feel of how GitHub Copilot works. 🧐
 
-Access the [GitHub Copilot Cheatsheet](./Resources/GHCP%20Cheatsheet.md) 😉 to get a quick reference of the most common commands, shortcuts and some easter eggs.
+Access the [GitHub Copilot Cheatsheet](./Resources/GHCP%20Cheatsheet.md) 😉 to get a quick reference of the most common commands, shortcuts and some easter eggs. 🐇🥚
+
+## Certifications and Badges 🏅
+
+Head over  to [Microsoft Learn](https://learn.microsoft.com/en-us/training/browse/) and browse Certifications for "GitHub" and "GitHub Copilot". 🎓
