@@ -56,3 +56,16 @@ Access the [GitHub Copilot Cheatsheet](./Resources/GHCP%20Cheatsheet.md) 😉 to
 ## Certifications and Badges 🏅
 
 Head over  to [Microsoft Learn](https://learn.microsoft.com/en-us/training/browse/) and browse Certifications for "GitHub" and "GitHub Copilot". 🎓
+
+
+## Contributing to the Workshop Repository 🤝
+
+If you want to contribute to the GitHub Copilot Workshop Repository, you can create a pull request. Using your prefered method:
+
+- Fork the repository by clicking on the "Fork" button at the top right corner of the repository page.
+- Clone the repository to your local machine using the `git clone` command.
+- Make changes using Codespaces and then submit a pull request.
+ 
+Once you've submitted the pull request wait for the repository maintainers to review and merge your changes.
+
+Thank you for your contribution! 🎉
