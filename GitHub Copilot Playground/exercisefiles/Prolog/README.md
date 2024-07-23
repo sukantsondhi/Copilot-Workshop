@@ -1,1 +1,0 @@
-# Prolog is The Ultimate God
