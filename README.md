@@ -51,7 +51,7 @@ You can also learn some basics of GitHub Copilot by following the [GitHub Copilo
 
 Follow the excercises in the [GitHub Copilot Playground](./GitHub%20Copilot%20Playground/) to get a feel of how GitHub Copilot works. 🧐
 
-Access the [GitHub Copilot Cheatsheet](./Resources/GHCP%20Cheatsheet.md) 😉 to get a quick reference of the most common commands, shortcuts and some easter eggs. 🐇🥚
+Access the [GitHub Copilot Cheatsheet](./Resources/README.md) 😉 to get a quick reference of the most common commands, shortcuts and some easter eggs. 🐇🥚
 
 ## Certifications and Badges 🏅
 
